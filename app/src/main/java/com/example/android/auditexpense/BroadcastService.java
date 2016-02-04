@@ -25,8 +25,6 @@ public class BroadcastService extends Service {
     private final Handler handler = new Handler();
     Intent intent;
 
-
-    
     @Override
     public void onCreate() {
         super.onCreate();

@@ -28,10 +28,6 @@ public class MainActivity extends AppCompatActivity {
     private ExpenseAdapter expenseAdapter;
     private Context context;
     private Intent intent;
-
-
-
-
     private List<ExpenseDetail> expenseDetailList;
 
     @Override
